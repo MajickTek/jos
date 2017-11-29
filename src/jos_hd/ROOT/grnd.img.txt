@@ -1,0 +1,5 @@
+Eventually, this will be the config for the "kernel".
+
+It will either be in Java's properties format or the Java XML properties format.
+
+Probably the latter, as it is moe extensible.
