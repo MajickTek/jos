@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=9ricIA13PhQ
 
 ## Instructions:
 javac *.java
+
 java Jos
 
 ### Other Stuff
